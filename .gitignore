@@ -1,0 +1,6 @@
+#IDE Config Folders
+.vscode/
+.idea/
+
+#Build Folders
+WebServer/target/
