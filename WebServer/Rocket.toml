@@ -1,14 +1,9 @@
-[development]
+[debug]
 address = "localhost"
 port = 8000
 log = "normal"
 
-[staging]
-address = "0.0.0.0"
-port = 80
-log = "normal"
-
-[production]
+[release]
 address = "0.0.0.0"
 port = 443
 log = "critical"
